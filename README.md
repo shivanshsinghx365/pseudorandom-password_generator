@@ -5,4 +5,4 @@ This uses inbuilt functions in python to create a fairly secure and random passw
 
 
 ## GUI Preview
-![gui]
+![gui](https://raw.githubusercontent.com/shivanshsinghx365/pseudorandom-password_generator/main/gui.png)
